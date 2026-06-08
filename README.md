@@ -24,8 +24,8 @@ C++ & ImGui >> MutGUI >> TideDefender
 
 ### 📃 𝔾𝕚𝕥𝕙𝕦𝕓 𝕍𝕚𝕖𝕨𝕤 📃
 
-[![Momifeh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Momifeh&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![QFeh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QFeh&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Momifeh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Momifeh&show_icons=true&theme=dracula)
+![QFeh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=QFeh&show_icons=true&theme=dracula)
 
-[![Momifeh's GitHub stats](https://github-immortality.vercel.app/api?username=Momifeh)](https://github.com/IceEnd)
+[![QFeh's GitHub stats](https://github-immortality.vercel.app/api?username=QFeh)](https://github.com/IceEnd)
